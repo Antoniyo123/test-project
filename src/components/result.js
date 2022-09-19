@@ -7,8 +7,8 @@ class NoResult extends Component{
   render(){
     return (
       <div className='fallBack'>
-        <h5>Oops, nothing found 😬</h5>
-        <p>Show <button className="fallBack_btn" onClick={this.props.click}>popular movies</button> again</p>
+        <h5>Oops, Hasil tidak ditemukan 😬</h5>
+        <p>Tampilkan <button className="fallBack_btn" onClick={this.props.click}>film populer</button> again</p>
       </div>
     )
   }

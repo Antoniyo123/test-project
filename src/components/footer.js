@@ -8,10 +8,10 @@ class Footer extends Component {
          <div className="line"></div>
          <div className='footDesc'>
             <img src={logo} />
-            <p>Type in your favorite movie title to get information or just see what movies are popular now. The "Movie Zorro" app is one of my ReactJS projects. The movie data come from The Movie DB api. I hope you all enjoy it.</p>
+            <p>Ketik judul film favorit Anda untuk mendapatkan informasi atau sekadar melihat film apa yang sedang populer sekarang. Aplikasi My Movie adalah salah satu proyek ReactJS saya. Data film berasal dari The Movie DB api. Saya harap Anda semua menikmatinya.</p>
          </div>
          <div className='footcopy'>
-            <p>My Email: zibo.zhang.byron@gamil.com</p>
+            <p>My Email: riswantonr2015@gmail.com</p>
          </div>
       </div>
     )

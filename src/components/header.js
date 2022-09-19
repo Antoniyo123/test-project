@@ -6,13 +6,13 @@ class Header extends Component {
     return(
       <Fragment>
         <div className="header">
-          <p className="header_slo">-Enjoy your weekends with Movie Zorro-</p>
-          <h1>Movie Zorro React App</h1>
+          <h1>My Movie Project</h1>
           <div className="header_logo">
             <img src={logo} />
-            <p>This app is powered by The Movie DB</p>
+            <p>Semua data Film berasal dari Movie DB</p>
           </div>
         </div>
+
       </Fragment>
     )
   }

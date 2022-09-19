@@ -1,6 +1,5 @@
-{
-  "homepage": "http://ZhangZiboMono.github.io/ReactApp-MovieZorro",
-  "name": "movie_zorro",
+{"homepage": "https://github.com/Antoniyo123/movie-app.git",
+  "name": "movie_react",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -8,10 +7,11 @@
     "npm": "6.14.4"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.27.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-overflow-scrolling": "^1.0.1",
+    "react-router-dom": "^6.4.0",
     "react-scripts": "^3.4.1",
     "react-spring": "^8.0.27"
   },
